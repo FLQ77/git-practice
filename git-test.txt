@@ -3,3 +3,4 @@ a test text
 a fix test
 
 second fix test
+conflict fix1 branch  commit
